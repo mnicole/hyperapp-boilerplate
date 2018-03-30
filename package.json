@@ -12,11 +12,10 @@
     "url": "git+https://github.com/mnicole/hyperapp-boilerplate.git"
   },
   "keywords": [
-    "prettier",
-    "config"
+    "hyperapp"
   ],
   "author": "Michele Larson",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mnicole/hyperapp-boilerplate/issues"
   },
